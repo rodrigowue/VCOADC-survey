@@ -1,4 +1,4 @@
-# ADC Performance Survey
+# VCO-ADC Performance Survey
 *Data collection from the ISSCC & VLSI Circuit Symposium, 1997-2024*
 
 For use in publications and presentations please cite as follows:  
